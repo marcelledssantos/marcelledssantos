@@ -2,7 +2,7 @@
 🤞 Oiiie! Sou a Marcelle Santos! <br>
 💻 Aluna RecodePro - Formação FullStack<br>
 👩‍🎓 Graduanda ADS - Estácio de Sá <br> 
-❤️ Pronouns: Ela / Dela.<br><br>
+
 
 <div>
   <a href="https://www.linkedin.com/in/marcelle-s-170995163">
