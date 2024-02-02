@@ -1,8 +1,8 @@
 # 
-🤞 Oiiie! Sou a Marcelle Santos! <br>
-💻 Aluna RecodePro - Formação FullStack<br>
+🤞 Oiiie! Me chamo Marcelle Santos! <br>
+Recentemente participei do bootcamp da RecodePro(2023) para me aprofundar na área da tecnologia e hoje estou com foco no desenvolvimento backend em Java.
+Possuo conhecimento intermediário em ReactJS, CSS, HTML, JSP, teste unitário e banco de dados relacional e não relacional. <br>
 👩‍🎓 Graduanda ADS - Estácio de Sá <br> 
-
 
 ##
 
