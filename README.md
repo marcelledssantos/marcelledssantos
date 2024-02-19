@@ -1,8 +1,10 @@
 # 
-🤞 Oiiie! Me chamo Marcelle Santos! <br>
-Recentemente participei do bootcamp da RecodePro(2023) para me aprofundar na área da tecnologia e hoje estou com foco no desenvolvimento backend em Java.
-Possuo conhecimento intermediário em JavaScript, ReactJS, CSS, HTML, JSP, teste unitário e banco de dados relacional e não relacional. <br>
-👩‍🎓 Graduanda ADS - Estácio de Sá <br> 
+🤞 Hello World!!
+
+Me chamo Marcelle e recentemente participei do bootcamp da RecodePro para me aprofundar em desenvolvimento fullstack com foco em Java.
+Possuo conhecimento intermediário em ReactJS, Next.js, HTML, JSP, teste unitário e banco de dados relacional e não relacional. Além disso, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. 
+
+ Minhas principais soft skills são:  vontade de aprender, pensamento analítico, resiliência, agilidade, proatividade, raciocínio lógico, empatia e escuta ativa.
 
 ##
 
