@@ -1,11 +1,5 @@
 # 
 🤞 Hello World!!
-
-Me chamo Marcelle e recentemente participei do bootcamp da RecodePro para me aprofundar em desenvolvimento fullstack com foco em Java.
-Possuo conhecimento intermediário em ReactJS, Next.js, HTML, JSP, teste unitário e banco de dados relacional e não relacional. Além disso, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. 
-
- Minhas principais soft skills são:  vontade de aprender, pensamento analítico, resiliência, agilidade, proatividade, raciocínio lógico, empatia e escuta ativa.
-
 ##
 
 <div>
