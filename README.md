@@ -7,7 +7,7 @@ Backend Developer | Cloud & AI Enthusiast | Java Lover
 Sou desenvolvedora de software formada em **Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá**.  
 Tenho experiência no desenvolvimento e manutenção de aplicações web, atuando principalmente com **backend, integração de sistemas e melhoria de aplicações corporativas**.
 
-Atuei em projetos corporativos através da **IBM**, contribuindo para soluções utilizadas por grandes empresas, trabalhando com modernização de aplicações, correção de bugs, automações e melhoria de processos.
+Atuo em projetos corporativos através da **IBM**, contribuindo para soluções utilizadas por grandes empresas, trabalhando com modernização de aplicações, correção de bugs, automações e melhoria de processos.
 
 Também desenvolvo projetos próprios explorando **web, cloud e inteligência artificial**, sempre buscando evoluir tecnicamente e construir soluções eficientes.
 
